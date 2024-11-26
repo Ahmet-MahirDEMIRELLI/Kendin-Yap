@@ -1,4 +1,4 @@
-import sys          # 34.05
+import sys
 import os
 import hashlib
 from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout, QPushButton,
